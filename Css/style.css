@@ -6,6 +6,10 @@
   font-family: 'Itim', cursive;
 }
 
+h1{
+  padding-left: 5px;
+}
+
 body{
   display: flex;
   justify-content: center;
